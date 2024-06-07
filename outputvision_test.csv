@@ -1,0 +1,1944 @@
+,osmid,y,x,street_count,nombre_foto,highway,ref,geometry,text
+1,388705,-33.4474114,-70.6321538,4,"imagenes_stgo/-33.481379867132866,-70.79805571428571.jpg",traffic_signals,,POINT (-70.6321538 -33.4474114),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The image shows no buildings, so no windows are visible."",
+    ""label"": ""Very bad""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are no visible signs or urban equipment in the image."",
+    ""label"": ""Very bad""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no graffiti or signs of vandalism visible in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or perceptions of safety in the image."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+The image shows a rural landscape with trees and a clear sky. There are no buildings or street signs visible, and the street appears clean. There is no graffiti or vandalism present, and the overall perception of safety is not applicable due to the lack of visible security measures"
+2,13876993,-33.441482,-70.6251697,3,"imagenes_stgo/-33.44186860567823,-70.62501985804417.jpg",,,POINT (-70.6251697 -33.441482),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The windows appear to be in good condition with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There is no visible signage or urban equipment in the image."",
+    ""label"": ""Very bad""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or perception of safety in the image."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+"
+3,13876995,-33.439819,-70.6183001,4,"imagenes_stgo/-33.440183032,-70.618072696.jpg",,,POINT (-70.6183001 -33.439819),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures such as surveillance cameras or guards."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+The image shows a street view with buildings, trees, and a sidewalk. The buildings have intact windows, and the street is clean without any visible litter. There are street signs and traffic lights, indicating proper urban equipment. There is no visible graffiti or signs of vandalism"
+5,13877004,-33.4193081,-70.6042474,4,"imagenes_stgo/-33.419968713286714,-70.60362961428571.jpg",traffic_signals,,POINT (-70.6042474 -33.4193081),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have large windows with some appearing clean and others with minor dirt or smudges."",
+    ""label"": ""Regular""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures like surveillance cameras or guards, but the presence of parked cars and pedestrians suggests a public, possibly safe area."",
+    ""label"": ""Regular""
+  }
+}
+```
+
+"
+6,13877007,-33.4319287,-70.5954627,3,"imagenes_stgo/-33.43176078233438,-70.59537970662461.jpg",,,POINT (-70.5954627 -33.4319287),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The windows appear to be intact with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are no visible signs or urban equipment in the image."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Regular""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures such as cameras or guards."",
+    ""label"": ""Regular""
+  }
+}
+```
+
+Based on the image provided, the street appears to be well-maintained with no visible litter or debris, and the buildings have intact windows. There are no signs or urban equipment visible, and no graffiti or vandalism is present. There are no visible security measures such as cam"
+7,13877010,-33.4217846,-70.6098597,4,"imagenes_stgo/-33.42220184615385,-70.60994215.jpg",traffic_signals,,POINT (-70.6098597 -33.4217846),"{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures such as surveillance cameras or guards."",
+    ""label"": ""Very bad""
+  }
+}
+
+"
+8,13877022,-33.4471317,-70.6303003,4,"imagenes_stgo/-33.44688615827338,-70.63011202173914.jpg",traffic_signals,,POINT (-70.6303003 -33.4471317),"{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures such as cameras or guards, but the area is well-lit and has a low crime rate perception."",
+    ""label"": ""Regular""
+  }
+}"
+9,13877023,-33.4427489,-70.6309726,4,"imagenes_stgo/-33.44299169716088,-70.6311948895899.jpg",traffic_signals,,POINT (-70.6309726 -33.4427489),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have some windows, but they are not clearly visible due to the distance and angle of the image."",
+    ""label"": ""Regular""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are no clear signs or urban equipment visible in the image."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Regular""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures like cameras or guards in the image."",
+    ""label"": ""Regular""
+  }
+}
+```
+
+The image shows a street view with buildings, trees, and a person walking. The street appears clean with no visible litter. The buildings have some windows, but the details are not clear. There are no signs, graffiti, or visible security"
+11,13877383,-33.4421527,-70.619248,4,"imagenes_stgo/-33.442737736,-70.619486704.jpg",,,POINT (-70.619248 -33.4421527),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are no visible signs or urban equipment in the image."",
+    ""label"": ""Very bad""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no graffiti or signs of vandalism visible in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or perception of safety in the image."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+The image shows a street view with buildings, a fence, and a tree. The buildings have intact windows, and the street appears clean without any visible litter. There are no signs or urban equipment visible, and no graffiti or vandalism is present. There are no visible security measures"
+12,13877384,-33.4419475,-70.6178138,4,"imagenes_stgo/-33.44230004195804,-70.61751719285714.jpg",,,POINT (-70.6178138 -33.4419475),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures like surveillance cameras or guards."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+The image shows a street view with a car parked on the side of the road. There are buildings in the background, and the street is lined with trees and grass. The sky is overcast. The car appears to be a modern SUV, and there are no visible pedestrians"
+13,13877385,-33.4416144,-70.6150491,4,"imagenes_stgo/-33.44186860567823,-70.61513980757098.jpg",,,POINT (-70.6150491 -33.4416144),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have some visible wear and tear on the windows, with some showing signs of age or damage."",
+    ""label"": ""Regular""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris, and the pavement looks well-maintained."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are no clear signs or urban equipment visible in the image."",
+    ""label"": ""Very bad""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures like cameras or guards, and the overall perception of safety is neutral."",
+    ""label"": ""Regular""
+  }
+}
+```
+
+"
+14,13877404,-33.4464355,-70.6112924,4,"imagenes_stgo/-33.454222611987376,-70.60772976971609.jpg",traffic_signals,,POINT (-70.6112924 -33.4464355),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""The presence of a metal fence and parked cars suggests some security measures are in place."",
+    ""label"": ""Regular""
+  }
+}
+```
+
+"
+15,13877406,-33.4437812,-70.6063735,4,"imagenes_stgo/-33.44341660839161,-70.60615462857143.jpg",,,POINT (-70.6063735 -33.4437812),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There is a street sign visible, but no other signage or urban equipment is clearly visible."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures such as cameras or guards."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+The image shows a street view with buildings, a street sign, and a person walking. The buildings have intact windows, and the street appears clean. There is a street sign visible, but no other signage or urban equipment is clearly visible. There is no visible graffiti"
+17,13877408,-33.4420912,-70.6043756,3,"imagenes_stgo/-33.44186860567823,-70.60402475078864.jpg",,,POINT (-70.6043756 -33.4420912),"{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are no visible signs or urban equipment in the image."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no graffiti or signs of vandalism visible in the image."",
+    ""label"": ""Regular""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or perception of safety in the image."",
+    ""label"": ""Regular""
+  }
+}
+
+"
+18,13877410,-33.4431378,-70.6031486,4,"imagenes_stgo/-33.44299169716088,-70.6027897444795.jpg",traffic_signals,,POINT (-70.6031486 -33.4431378),"{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures like cameras or guards, but the area is well-lit and there is a person walking, which may contribute to a sense of safety."",
+    ""label"": ""Regular""
+  }
+}"
+19,13877414,-33.4446506,-70.5992344,4,"imagenes_stgo/-33.447847144,-70.599690592.jpg",traffic_signals,,POINT (-70.5992344 -33.4446506),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and utility poles visible, but no distinct signage or equipment."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures like cameras or guards, but the area is well-lit and there are people present, which may contribute to a sense of safety."",
+    ""label"": ""Regular""
+  }
+}
+```
+
+"
+20,13877415,-33.4415749,-70.5996621,4,"imagenes_stgo/-33.441460383999996,-70.599690592.jpg",traffic_signals,,POINT (-70.5996621 -33.4415749),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures like surveillance cameras or guards."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+"
+21,13877416,-33.4417721,-70.6001538,3,"imagenes_stgo/-33.44230004195804,-70.59984209285714.jpg",,,POINT (-70.6001538 -33.4417721),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There is a clear signage for the building, but no other urban equipment is visible."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""The presence of a fence and a well-maintained building suggests good security measures."",
+    ""label"": ""Good""
+  }
+}
+```
+
+"
+22,13877418,-33.4427884,-70.6013883,4,"imagenes_stgo/-33.44299169716088,-70.60155473817035.jpg",traffic_signals,,POINT (-70.6013883 -33.4427884),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There is no visible signage or urban equipment in the image."",
+    ""label"": ""Very bad""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or perception of safety in the image."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+The image shows a street view with buildings, trees, and a car parked on the side. The buildings have intact windows, and the street appears clean without any visible litter. There is no signage or urban equipment visible, and no graffiti or vandalism is present. The"
+23,13877421,-33.4397274,-70.6030851,4,"imagenes_stgo/-33.43962242271293,-70.6027897444795.jpg",traffic_signals,,POINT (-70.6030851 -33.4397274),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The windows of the buildings appear to be in good condition with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There is no visible signage or urban equipment in the image."",
+    ""label"": ""Very bad""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or perception of safety in the image."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+The image shows a street view with buildings, cars, and a few people. The buildings have a mix of brick and modern architecture, and the street is lined with trees and a sidewalk. There are no visible signs or urban equipment, and the street appears clean. There"
+24,13877432,-33.4389424,-70.5982874,4,"imagenes_stgo/-33.43920227338129,-70.59890573913043.jpg",traffic_signals,,POINT (-70.5982874 -33.4389424),"{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There is a blue sign visible, likely indicating a public facility or information."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures such as cameras or guards."",
+    ""label"": ""Very bad""
+  }
+}
+
+ 
+"
+25,13877434,-33.441308,-70.5977957,4,"imagenes_stgo/-33.44186860567823,-70.5978497192429.jpg",traffic_signals,,POINT (-70.5977957 -33.441308),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There is a street sign visible, but no other urban equipment is clearly visible."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures such as cameras or guards."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+"
+26,13877435,-33.4452412,-70.5972515,5,"imagenes_stgo/-33.44748406309148,-70.59908472555205.jpg",,,POINT (-70.5972515 -33.4452412),"{
+  ""building_window_condition"": {
+    ""description"": ""The windows appear to be intact with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There is a street sign visible, but no other urban equipment is clearly visible."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures such as cameras or guards."",
+    ""label"": ""Very bad""
+  }
+}
+
+ 
+"
+27,13877436,-33.444464,-70.5973675,4,"imagenes_stgo/-33.444533174825175,-70.59731707857142.jpg",,,POINT (-70.5973675 -33.444464),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are no visible signs or urban equipment in the image."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no graffiti or signs of vandalism visible in the image."",
+    ""label"": ""Regular""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or surveillance cameras in the image."",
+    ""label"": ""Regular""
+  }
+}
+```
+
+The image shows a street view with buildings, trees, and a person riding a bicycle. The buildings have intact windows, and the street appears clean without any visible litter or debris. There are no signs or urban equipment visible, and no graffiti or vandalism can be seen"
+28,13877442,-33.4376874,-70.6038457,4,"imagenes_stgo/-33.43849933123028,-70.60402475078864.jpg",traffic_signals,,POINT (-70.6038457 -33.4376874),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are no visible signs or urban equipment in the image."",
+    ""label"": ""Very bad""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no graffiti or signs of vandalism visible in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or perception of safety in the image."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+The image shows a street view with buildings, trees, and a car. The buildings have intact windows, and the street is clean without any visible litter. There is no graffiti or vandalism, and no signs or urban equipment are visible. There are no security measures or perception of"
+29,13877443,-33.4370195,-70.6009069,4,"imagenes_stgo/-33.437628327999995,-70.6011046.jpg",,,POINT (-70.6009069 -33.4370195),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs visible, but no other urban equipment is clearly visible."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures like cameras or guards."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+The image shows a street view with buildings, trees, and a sidewalk. The buildings have intact windows, and the street is clean. There are street signs visible, but no other urban equipment is clearly visible. There is no visible graffiti or signs of vandalism. The security measures are not visible in"
+30,13877445,-33.4385282,-70.6095917,3,"imagenes_stgo/-33.43890568,-70.609588648.jpg",,,POINT (-70.6095917 -33.4385282),"{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""The presence of a fence and parked cars suggests a level of security."",
+    ""label"": ""Regular""
+  }
+}
+
+"
+31,13877447,-33.4434242,-70.6012911,3,"imagenes_stgo/-33.44356672,-70.60037486607143.jpg",,,POINT (-70.6012911 -33.4434242),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are no visible signs or urban equipment in the image."",
+    ""label"": ""Very bad""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no graffiti or signs of vandalism visible in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or perception of safety in the image."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+The image shows a street view with a few parked cars and a building in the background. The street appears to be clean with no visible litter or debris, indicating good street cleanliness and maintenance. The building has intact windows, suggesting good building and window condition. There is no visible"
+32,13877448,-33.4432257,-70.5994334,4,"imagenes_stgo/-33.44341660839161,-70.59984209285714.jpg",traffic_signals,,POINT (-70.5994334 -33.4432257),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The windows appear to be intact and clean."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There is no visible signage or urban equipment in the image."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism."",
+    ""label"": ""Regular""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or perception of safety concerns."",
+    ""label"": ""Regular""
+  }
+}
+```
+
+"
+33,13877484,-33.4303837,-70.6255312,3,"imagenes_stgo/-33.43113437762238,-70.62509223571428.jpg",,,POINT (-70.6255312 -33.4303837),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have visible windows, but the condition cannot be precisely determined from the image."",
+    ""label"": ""Regular""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs visible, but no other urban equipment can be discerned."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or surveillance cameras in the image."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+"
+34,13877486,-33.4274345,-70.6237851,4,"imagenes_stgo/-33.427409512,-70.623728728.jpg",traffic_signals,,POINT (-70.6237851 -33.4274345),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The image is too dark to accurately assess the condition of the buildings and windows."",
+    ""label"": ""Unknown""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The image is too dark to accurately assess the street cleanliness and maintenance."",
+    ""label"": ""Unknown""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""The image is too dark to accurately assess the signage and urban equipment."",
+    ""label"": ""Unknown""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""The image is too dark to accurately assess the presence of graffiti and vandalism."",
+    ""label"": ""Unknown""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""The image is too dark to accurately assess the security measures and perception of safety."",
+    ""label"": ""Unknown""
+  }
+}
+```
+"
+35,13877489,-33.4251069,-70.6215619,3,"imagenes_stgo/-33.42502223343848,-70.62131483911672.jpg",traffic_signals,,POINT (-70.6215619 -33.4251069),"{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures like surveillance cameras or guards, but the presence of a pedestrian suggests a safe environment."",
+    ""label"": ""Regular""
+  }
+}
+
+"
+36,13877491,-33.4233244,-70.6189531,3,"imagenes_stgo/-33.423577456,-70.619486704.jpg",,,POINT (-70.6189531 -33.4233244),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are no visible signs or urban equipment in the image."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no graffiti or signs of vandalism visible in the image."",
+    ""label"": ""Regular""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or surveillance cameras in the image."",
+    ""label"": ""Regular""
+  }
+}
+```
+
+The image shows a street view with buildings, trees, and vehicles. There are no visible signs of graffiti or vandalism, and the buildings have intact windows. The street appears clean without any litter, and there are no visible security measures or surveillance cameras. The overall perception of"
+37,13877495,-33.4208009,-70.6120518,3,"imagenes_stgo/-33.42108527972028,-70.61120465714285.jpg",,,POINT (-70.6120518 -33.4208009),"{
+  ""building_window_condition"": {
+    ""description"": ""The windows appear to be intact with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There is no visible signage or urban equipment in the image."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Regular""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures such as cameras or guards."",
+    ""label"": ""Regular""
+  }
+}
+
+ 
+"
+38,13877530,-33.4349892,-70.5852746,3,"imagenes_stgo/-33.435130056782334,-70.58549965615143.jpg",,,POINT (-70.5852746 -33.4349892),"{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There is a pedestrian crossing sign visible on the left side of the image."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security cameras or guards, but the presence of a fence and a gate suggests some level of security."",
+    ""label"": ""Regular""
+  }
+}
+
+"
+39,13882124,-33.4355012,-70.5882204,5,"imagenes_stgo/-33.43560064335664,-70.58847952857143.jpg",traffic_signals,,POINT (-70.5882204 -33.4355012),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There is a street sign visible, but no other signage or urban equipment is clearly visible."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures such as cameras or guards, but the area appears to be well-lit and not deserted."",
+    ""label"": ""Regular""
+  }
+}
+```
+"
+40,13882139,-33.4373723,-70.5853653,4,"imagenes_stgo/-33.44973024605678,-70.56573955520504.jpg",traffic_signals,,POINT (-70.5853653 -33.4373723),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There is a street sign visible, but no other signage or urban equipment is clearly visible."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures such as cameras or guards."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+"
+41,13882169,-33.448369,-70.618432,4,"imagenes_stgo/-33.59750277622378,-70.6011046.jpg",,,POINT (-70.618432 -33.448369),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The image does not show any buildings or windows."",
+    ""label"": ""Not Applicable""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The image does not show a street."",
+    ""label"": ""Not Applicable""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""The image does not show any signage or urban equipment."",
+    ""label"": ""Not Applicable""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""The image does not show any graffiti or vandalism."",
+    ""label"": ""Not Applicable""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""The image does not show any security measures or give any indication of safety perception."",
+    ""label"": ""Not Applicable""
+  }
+}
+```
+
+The image provided does not contain any visible buildings, streets, signage, or urban equipment to assess the conditions mentioned in the criteria. Therefore, the descriptions and labels for each criterion are marked as ""Not Applicable."""
+42,13882170,-33.4402635,-70.6211604,4,"imagenes_stgo/-33.440745514195584,-70.62131483911672.jpg",traffic_signals,,POINT (-70.6211604 -33.4402635),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and a fire hydrant visible, indicating some level of urban equipment."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures such as surveillance cameras or guards."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+The image shows a street view with buildings, trees, a car, and a fire hydrant. The buildings have intact windows, and the street appears clean. There are street signs and a fire hydrant visible, indicating some level of urban equipment. There is no visible"
+43,13882174,-33.4383607,-70.6217775,3,"imagenes_stgo/-33.43849933123028,-70.62254984542587.jpg",,,POINT (-70.6217775 -33.4383607),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The image shows a street view with buildings, but the windows are not clearly visible or are obscured by the angle of the image."",
+    ""label"": ""Very bad""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There is a green directional sign indicating a left turn, which is partially visible."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or equipment in the image."",
+    ""label"": ""Very bad""
+  }
+}
+```
+"
+44,13882175,-33.4380004,-70.6202246,3,"imagenes_stgo/-33.43849933123028,-70.62007983280758.jpg",,,POINT (-70.6202246 -33.4380004),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism on the buildings or street."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""The street is well-lit and there are no visible security cameras or patrols, giving a perception of safety."",
+    ""label"": ""Regular""
+  }
+}
+```
+
+"
+45,13882176,-33.4337381,-70.6264788,5,"imagenes_stgo/-33.43400696529968,-70.62625486435331.jpg",traffic_signals,,POINT (-70.6264788 -33.4337381),"{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures like surveillance cameras or guards, but the presence of pedestrians and vehicles suggests a moderately safe environment."",
+    ""label"": ""Regular""
+  }
+}
+
+"
+48,13882183,-33.4307999,-70.6064212,4,"imagenes_stgo/-33.431241568,-70.606760632.jpg",traffic_signals,,POINT (-70.6064212 -33.4307999),"{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures like surveillance cameras or guards, but the area is well-lit and there is no immediate indication of danger."",
+    ""label"": ""Regular""
+  }
+}"
+49,13882184,-33.4280094,-70.6074728,4,"imagenes_stgo/-33.42839150788643,-70.60772976971609.jpg",traffic_signals,,POINT (-70.6074728 -33.4280094),"{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are no visible signs or urban equipment in the image."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no graffiti or signs of vandalism present in the image."",
+    ""label"": ""Regular""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures in the image."",
+    ""label"": ""Regular""
+  }
+}
+
+The image shows a group of people sitting on a blanket on the ground, possibly enjoying a picnic or a casual gathering. There are no visible security measures, and the street appears clean with no litter or debris. The buildings have intact windows, and there are no signs or urban equipment visible. There is no graffiti or signs of v"
+50,13882185,-33.4303917,-70.6045944,4,"imagenes_stgo/-33.43063769085173,-70.6052597570978.jpg",traffic_signals,,POINT (-70.6045944 -33.4303917),"{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are no visible signs or urban equipment in the image."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no graffiti or signs of vandalism present in the image."",
+    ""label"": ""Regular""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""The presence of a fence and the absence of visible graffiti or litter suggest a perception of safety."",
+    ""label"": ""Good""
+  }
+}"
+51,13882186,-33.4275645,-70.6055083,4,"imagenes_stgo/-33.42778467832168,-70.60615462857143.jpg",traffic_signals,,POINT (-70.6055083 -33.4275645),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are no visible signs or urban equipment in the image."",
+    ""label"": ""Very bad""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no graffiti or signs of vandalism visible in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures such as cameras or guards."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+The image shows a street view with buildings, a sidewalk, and a tree. The buildings have intact windows, and the street appears clean without any visible litter. There are no signs or urban equipment visible, and no graffiti or vandalism is present. There are no visible security measures such"
+52,13882187,-33.4271275,-70.6035789,4,"imagenes_stgo/-33.427409512,-70.603932616.jpg",traffic_signals,,POINT (-70.6035789 -33.4271275),"{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, but no other urban equipment is clearly visible."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures such as surveillance cameras or guards."",
+    ""label"": ""Very bad""
+  }
+}
+
+"
+53,13882190,-33.4213806,-70.6076067,4,"imagenes_stgo/-33.421652958990535,-70.60772976971609.jpg",traffic_signals,,POINT (-70.6076067 -33.4213806),"{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, but the details are not clear."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or surveillance cameras in the image."",
+    ""label"": ""Very bad""
+  }
+}
+
+"
+54,13882193,-33.4373375,-70.602306,4,"imagenes_stgo/-33.437833776223776,-70.60236710714285.jpg",,,POINT (-70.602306 -33.4373375),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security cameras or guards, but the area is well-lit and there is no visible criminal activity."",
+    ""label"": ""Good""
+  }
+}
+```
+
+The image shows a street view with buildings, trees, and a car. The buildings have intact windows, and the street appears clean without visible litter. There are street signs and traffic lights, indicating proper urban equipment. There is no visible graffiti or"
+55,13882291,-33.4287685,-70.6104293,4,"imagenes_stgo/-33.42895709352518,-70.61025347826087.jpg",traffic_signals,,POINT (-70.6104293 -33.4287685),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or surveillance cameras, giving a perception of low security."",
+    ""label"": ""Bad""
+  }
+}
+```
+
+"
+57,13884924,-33.4432544,-70.63337,4,"imagenes_stgo/-33.449124495999996,-70.661906944.jpg",traffic_signals,,POINT (-70.63337 -33.4432544),"{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have visible signs of wear and tear, with some windows appearing aged and others showing signs of damage."",
+    ""label"": ""Bad""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris, and the pavement looks well-maintained."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There is a street sign visible, but no other signage or urban equipment can be clearly identified."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is graffiti visible on the building, indicating some level of vandalism."",
+    ""label"": ""Bad""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures such as cameras or guards, and the overall perception of safety is low due to the graffiti."",
+    ""label"": ""Very bad""
+  }
+}
+
+"
+58,13884925,-33.4418322,-70.6338087,4,"imagenes_stgo/-33.45309952050473,-70.68800517981073.jpg",traffic_signals,,POINT (-70.6338087 -33.4418322),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures such as surveillance cameras or guards."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+"
+59,13884934,-33.4368263,-70.635324,4,"imagenes_stgo/-33.467007423999995,-70.77078556000001.jpg",traffic_signals,,POINT (-70.635324 -33.4368263),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The image shows no buildings, so the condition of windows cannot be assessed."",
+    ""label"": ""Not Applicable""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be unmaintained with visible debris and no clear road markings."",
+    ""label"": ""Bad""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are no clear signs or urban equipment visible in the image."",
+    ""label"": ""Not Applicable""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Not Applicable""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""The image shows a barbed wire fence, which may suggest some security measures, but the overall perception of safety cannot be accurately determined from the image alone."",
+    ""label"": ""Not Applicable""
+  }
+}
+```
+
+The image shows a barren landscape with a dirt road, some vegetation, and a fence with barbed wire."
+60,13885139,-33.4154542,-70.6173953,4,"imagenes_stgo/-33.416037501577286,-70.61884482649842.jpg",,,POINT (-70.6173953 -33.4154542),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The image does not clearly show any buildings or windows."",
+    ""label"": ""Not Applicable""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are no clear signs or urban equipment visible in the image."",
+    ""label"": ""Not Applicable""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Not Applicable""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""The image does not provide enough information to evaluate security measures."",
+    ""label"": ""Not Applicable""
+  }
+}
+```
+
+"
+61,13885140,-33.4207311,-70.6148193,4,"imagenes_stgo/-33.42108527972028,-70.61499217857143.jpg",traffic_signals,,POINT (-70.6148193 -33.4207311),"{
+  ""building_window_condition"": {
+    ""description"": ""The image does not provide clear visibility of buildings or windows to accurately assess their condition."",
+    ""label"": ""Not Applicable""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The image does not provide enough detail to evaluate the cleanliness or maintenance of the street."",
+    ""label"": ""Not Applicable""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""The image does not show any signage or urban equipment to assess their state."",
+    ""label"": ""Not Applicable""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""The image does not clearly show any graffiti or vandalism to make an assessment."",
+    ""label"": ""Not Applicable""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""The image does not provide information on security measures or the perception of safety."",
+    ""label"": ""Not Applicable""
+  }
+}
+"
+62,13885141,-33.4218819,-70.6141727,4,"imagenes_stgo/-33.422300104,-70.61383067199999.jpg",traffic_signals,,POINT (-70.6141727 -33.4218819),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and some urban equipment like benches and planters."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""Security cameras are visible on the street, and the area is well-lit, suggesting a perception of safety."",
+    ""label"": ""Very good""
+  }
+}
+```
+
+"
+63,13885167,-33.4178599,-70.6102541,4,"imagenes_stgo/-33.41828368454259,-70.61019978233439.jpg",,,POINT (-70.6102541 -33.4178599),"{
+  ""building_window_condition"": {
+    ""description"": ""The windows appear to be intact and clean."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There is no visible signage or urban equipment in the image."",
+    ""label"": ""Very bad""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or perception of safety in the image."",
+    ""label"": ""Very bad""
+  }
+}"
+64,13885168,-33.4188594,-70.6094597,4,"imagenes_stgo/-33.419406776025234,-70.60896477602523.jpg",traffic_signals,,POINT (-70.6094597 -33.4188594),"{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have large windows with some appearing clean and others with minor dirt or wear."",
+    ""label"": ""Regular""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and some urban equipment like benches and a motorcycle."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures like surveillance cameras or guards."",
+    ""label"": ""Very bad""
+  }
+}
+
+"
+65,13885175,-33.4258523,-70.6018564,4,"imagenes_stgo/-33.42614532492113,-70.60155473817035.jpg",,,POINT (-70.6018564 -33.4258523),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""The presence of a fence and street lighting suggests a perception of security."",
+    ""label"": ""Good""
+  }
+}
+```
+
+Based on the image provided, the street appears to be well-maintained with no visible litter or debris, and the buildings have intact windows. The street signs and traffic lights are in place, and there is no visible graffiti or signs of vandalism. The f"
+66,13885179,-33.4212984,-70.6128987,3,"imagenes_stgo/-33.421652958990535,-70.61266979495268.jpg",,,POINT (-70.6128987 -33.4212984),"{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures like surveillance cameras or guards."",
+    ""label"": ""Regular""
+  }
+}
+
+"
+67,13885182,-33.422333,-70.6107329,3,"imagenes_stgo/-33.422300104,-70.611002656.jpg",,,POINT (-70.6107329 -33.422333),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are several signs and streetlights visible, indicating good urban infrastructure."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures like cameras or guards in the image."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+The image shows a street scene with a person on a motorcycle, a car, and a building with a sign that reads 'BGT'. There are also some pedestrians and a traffic sign visible. The street appears to be clean with no visible litter or debris,"
+68,14609556,-33.4382481,-70.6251081,3,"imagenes_stgo/-33.43849933123028,-70.62501985804417.jpg",,,POINT (-70.6251081 -33.4382481),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security cameras or guards, but the area is well-lit and there are no signs of loitering or suspicious activity."",
+    ""label"": ""Regular""
+  }
+}
+```
+"
+69,14609557,-33.4333089,-70.6285548,3,"imagenes_stgo/-33.43400696529968,-70.62872487697162.jpg",traffic_signals,,POINT (-70.6285548 -33.4333089),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have visible windows, but the condition is not clear from the image."",
+    ""label"": ""Regular""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are no clear signs or urban equipment visible in the image."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or perception of safety in the image."",
+    ""label"": ""Very bad""
+  }
+}
+```
+"
+70,14805038,-33.4356977,-70.6353964,4,"imagenes_stgo/-33.43560064335664,-70.63771730714285.jpg",traffic_signals,,POINT (-70.6353964 -33.4356977),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The image does not clearly show any buildings or windows."",
+    ""label"": ""Not Applicable""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be wet and possibly dirty, with no visible signs of recent cleaning."",
+    ""label"": ""Bad""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are no visible signs or urban equipment in the image."",
+    ""label"": ""Not Applicable""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Not Applicable""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or perceptions of safety in the image."",
+    ""label"": ""Not Applicable""
+  }
+}
+```
+
+"
+71,15073543,-33.4182109,-70.6014962,5,"imagenes_stgo/-33.41828368454259,-70.60155473817035.jpg",,,POINT (-70.6014962 -33.4182109),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, which are in good condition."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures like surveillance cameras or police presence."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+The image shows a street scene with buildings, pedestrians, and traffic. The buildings have intact windows, and the street is clean without visible litter. Street signs and traffic lights are present and in good condition. There is no visible graffiti or vandalism. However,"
+72,15172886,-33.4356668,-70.5838475,4,"imagenes_stgo/-33.472447335664334,-70.5240916642857.jpg",traffic_signals,,POINT (-70.5838475 -33.4356668),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have visible windows, but the condition cannot be determined from the image."",
+    ""label"": ""Regular""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are no visible signs or urban equipment in the image."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Regular""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or perception of safety in the image."",
+    ""label"": ""Regular""
+  }
+}
+```
+
+"
+74,15754724,-33.4408979,-70.629961,4,"imagenes_stgo/-33.441460383999996,-70.62938476.jpg",traffic_signals,,POINT (-70.629961 -33.4408979),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, but no other urban equipment is clearly visible."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures such as surveillance cameras or guards."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+"
+75,15754726,-33.4437475,-70.6293107,3,"imagenes_stgo/-33.44341660839161,-70.62887975714285.jpg",,,POINT (-70.6293107 -33.4437475),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is graffiti on the wall of a building, indicating some vandalism."",
+    ""label"": ""Bad""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security cameras or guards, and the presence of graffiti may suggest a lack of security measures."",
+    ""label"": ""Bad""
+  }
+}
+```
+
+"
+76,15754729,-33.4443284,-70.6310294,3,"imagenes_stgo/-33.44411478864353,-70.6311948895899.jpg",,,POINT (-70.6310294 -33.4443284),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are no visible signs or urban equipment in the image."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no graffiti or signs of vandalism present."",
+    ""label"": ""Regular""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or surveillance cameras."",
+    ""label"": ""Regular""
+  }
+}
+```
+
+The image shows a street with a clear sky, a few trees, and a palm tree in the center. The buildings have intact windows, and the street is clean without any visible litter. There are no signs or urban equipment, and no graffiti or vandalism is present. The perception of safety is regular as there"
+77,15754731,-33.4439681,-70.630717,3,"imagenes_stgo/-33.4441290955414,-70.63050703797468.jpg",crossing,,POINT (-70.630717 -33.4439681),"{
+  ""building_window_condition"": {
+    ""description"": ""The windows appear to be intact with no visible damage or broken panes."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There is no visible signage or urban equipment in the image."",
+    ""label"": ""Very bad""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or surveillance cameras in the image."",
+    ""label"": ""Very bad""
+  }
+}
+
+"
+78,15754733,-33.4390628,-70.6199648,4,"imagenes_stgo/-33.43895034265734,-70.62004220714286.jpg",,,POINT (-70.6199648 -33.4390628),"{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There is a street sign visible, but no other signage or urban equipment is clearly visible."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures such as cameras or guards."",
+    ""label"": ""Very bad""
+  }
+}
+
+"
+79,15754736,-33.4300893,-70.6122603,4,"imagenes_stgo/-33.43063769085173,-70.61266979495268.jpg",,,POINT (-70.6122603 -33.4300893),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are no visible signs or urban equipment in the image."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no graffiti or signs of vandalism visible in the image."",
+    ""label"": ""Regular""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures or surveillance cameras in the image."",
+    ""label"": ""Regular""
+  }
+}
+```
+
+The image shows a street view with a few parked cars and some buildings in the background. There are no visible signs, graffiti, or vandalism. The buildings have intact windows, and the street appears clean. There are no visible security measures or surveillance cameras. The overall perception"
+80,15754745,-33.4260388,-70.6134009,4,"imagenes_stgo/-33.426395798561146,-70.61309041304348.jpg",,,POINT (-70.6134009 -33.4260388),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There are street signs and traffic lights visible, indicating proper urban equipment."",
+    ""label"": ""Good""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures like surveillance cameras or guards."",
+    ""label"": ""Very bad""
+  }
+}
+```
+
+"
+81,15754763,-33.4291074,-70.6124803,4,"imagenes_stgo/-33.42895709352518,-70.61309041304348.jpg",traffic_signals,,POINT (-70.6124803 -33.4291074),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The buildings have intact windows with no visible damage."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The street appears to be clean with no visible litter or debris."",
+    ""label"": ""Good""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There is street signage visible, but no clear urban equipment like traffic lights or streetlights."",
+    ""label"": ""Regular""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism on the buildings or street."",
+    ""label"": ""Very good""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""There are no visible security measures like surveillance cameras or guards."",
+    ""label"": ""Regular""
+  }
+}
+```
+
+The image shows a street view with buildings, a sidewalk, and a few parked cars. The buildings have intact windows, and the street appears clean without visible litter. There is no graffiti or vandalism present, and the security measures"
+82,16106539,-33.4372689,-70.6351382,4,"imagenes_stgo/-33.44186860567823,-70.65095499053628.jpg",traffic_signals,,POINT (-70.6351382 -33.4372689),"
+```json
+{
+  ""building_window_condition"": {
+    ""description"": ""The image shows a building with a single visible window. The window appears to be in good condition with no visible damage or dirt."",
+    ""label"": ""Good""
+  },
+  ""street_cleanliness_maintenance"": {
+    ""description"": ""The image does not provide a view of the street, so street cleanliness and maintenance cannot be evaluated."",
+    ""label"": ""Not Applicable""
+  },
+  ""signage_urban_equipment"": {
+    ""description"": ""There is a street sign visible in the image, but no other signage or urban equipment can be discerned."",
+    ""label"": ""Not Applicable""
+  },
+  ""graffiti_vandalism_presence"": {
+    ""description"": ""There is no visible graffiti or signs of vandalism in the image."",
+    ""label"": ""Not Applicable""
+  },
+  ""security_measures_perception"": {
+    ""description"": ""The image does not provide enough context to evaluate security measures or the perception of safety."",
+    ""label"": ""Not Applicable""
+  }
+}
+```
+
+The image provided is a close-up of a doorway with a street sign visible in the"
