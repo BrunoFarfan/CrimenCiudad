@@ -1,3 +1,6 @@
+output/
 content
-imagenes_stgo
 cache
+*.csv
+*.zip
+imagenes_stgo/
