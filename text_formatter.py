@@ -8,6 +8,7 @@ def format_csv(data: pd.DataFrame) -> pd.DataFrame:
     new_data.sort_values(by="fecha", inplace=True)
     text_df = pd.DataFrame(columns=["Text"])
     text_df["Text"] = new_data.apply(lambda x: f"{x['fecha']} {x['source_glosa']} {x['delito']} {x['lugar']} {x['comuna']} {x['text']}", axis=1)
+    text_df["Text"] = text_df["Text"].str.replace("\n", " ")
 
     return text_df
 
