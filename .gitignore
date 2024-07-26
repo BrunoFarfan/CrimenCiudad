@@ -4,3 +4,5 @@ cache
 *.csv
 *.zip
 imagenes_stgo/
+data/
+.python-version
