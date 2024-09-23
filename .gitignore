@@ -6,3 +6,4 @@ cache
 imagenes_stgo/
 data/
 .python-version
+.env
