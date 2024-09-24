@@ -3,6 +3,7 @@ content
 cache
 *.csv
 *.zip
+*.rar
 imagenes_stgo/
 data/
 .python-version
